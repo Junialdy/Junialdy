@@ -6,9 +6,9 @@
 
 - 👦 `My name is`: **Junialdy**,
 - ⚡ `I'm`: **20 years old**,
-- 🌱 `I’m currently learning`: **Hero UI**,
+- 🌱 `I’m currently learning`: **Payload CMS**,
 - ❤️ `I love`: **Fried rice**,
-- 💻 `Favorite lang`: **JavaScript**
+- 💻 `Favorite lang`: **TypeScript**
 
 }
 
